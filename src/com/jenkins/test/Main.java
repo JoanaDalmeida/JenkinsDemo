@@ -49,7 +49,6 @@ public class Main extends JFrame {
       setTitle("AutoComplete Demo");
       setDefaultCloseOperation(EXIT_ON_CLOSE);
       pack();
-      setLocationRelativeTo(null);
 
    }
 
